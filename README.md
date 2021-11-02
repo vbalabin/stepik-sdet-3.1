@@ -1,1 +1,1 @@
-# stepik-sdet-3.1
+# stepik-sdet-3.1 задание 10
